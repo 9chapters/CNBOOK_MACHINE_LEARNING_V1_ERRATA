@@ -1,0 +1,14 @@
+Some pictures in the book need update.
+Get from https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm
+
+p.112, 图 5.14a
+p.131, 图 6.5
+
+p.34, 图 2.4(b)
+
+p.204, 图9.3
+
+TODO:
+Now only insert the .eps format to the Latex file.The .pdf picture need convert to .eps and do a update.
+
+
