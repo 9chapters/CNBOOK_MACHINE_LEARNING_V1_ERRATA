@@ -9,5 +9,6 @@ The errata for this book is in Latex format,some people maybe not familiar with 
 So in this project,you will get a PDF version errata for book MACHINE LEARNING.Also,the Latex file which I used to generate PDF errata will upload for your reference,I use the TeX Live and TeXstudio to setup the Latex environment.
 
 Enjoy the book with this errata,hope it can help you and save your time.
-Any question please open a issue.
+
+Any question please open an issue.
 
