@@ -12,3 +12,8 @@ Enjoy the book with this errata,hope it can help you and save your time.
 
 Any question please open an issue.
 
+20200112 update:  
+Get the latest pdf version errata:  
+https://github.com/9chapters/CNBOOK_MACHINE_LEARNING_V1_ERRATA/blob/master/CNBOOK_MACHINE_LEARNING_V1_ERRATA_20200112.pdf  
+1.Update with the latest.  
+2.Insert the pdf picture.  
